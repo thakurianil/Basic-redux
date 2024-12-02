@@ -11,3 +11,6 @@ createRoot(document.getElementById('root')).render(
     </Provider>
   </StrictMode>,
 )
+
+
+//Vite is neccessary for redux
