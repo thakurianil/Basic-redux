@@ -12,5 +12,3 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
-
-//Vite is neccessary for redux
