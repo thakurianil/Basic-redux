@@ -17,4 +17,3 @@ export const { newBook } = actions;
 
 export default reducer;
 
-//this is the slice for redux
